@@ -41,6 +41,11 @@ git push origin your-branch-name
 
 ### 6.Create a Pull Request on GitHub
 Once your work is ready, create a PR to merge into main so we can review and integrate.
+go to GitHub and you will see 
+
+> “You recently pushed a branch: feature-login. Would you like to create a Pull Request?”
+
+follow the instructions like the buttons and create a pull request.
 
 ---
 
